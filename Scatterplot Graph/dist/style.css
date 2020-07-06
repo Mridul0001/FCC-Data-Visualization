@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+body{
+  text-align:center;
+  background-color:#977390;
+  font-family: 'Ubuntu', sans-serif;
+  color:#0D160B;
+}
+
+#text{
+   fill:#0D160B;
+}
+
+#main{
+  padding:10px;
+}
+
+#tooltip {
+  position: absolute;			  
+    padding: 10px;				  box-shadow: 10px 10px 18px #465775;
+    font-size: 12px;
+    background-color:#59C9A5;	
+    border: 0px;		
+    border-radius: 2px;			
+    pointer-events: none;	
+}
