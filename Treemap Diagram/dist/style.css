@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300&display=swap');
+body{
+  text-align: center;
+  font-family: 'Noto Sans JP', sans-serif;
+  background-color:#A4A9AD;
+}
+
+#tooltip {
+  position: absolute;
+  padding: 10px;             
+  font: 12px Arial;        
+  background-color: #20A39E;
+  box-shadow: 1px 1px 10px #5A5A66;
+  border: 0px;        
+  border-radius: 2px;            
+  pointer-events: none;            
+}
